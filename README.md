@@ -1,1 +1,1 @@
-# How to build a continous depmpyment on jenkins with kubernetes
+# How to deploy an app on google  container registry with KANIKO
